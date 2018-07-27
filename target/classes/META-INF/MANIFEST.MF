@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: aosunbiyi
+Build-Jdk: 10.0.1
+Implementation-Title: A simple course api site
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.tandt
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/course-api
+Created-By: Maven Integration for Eclipse
+
